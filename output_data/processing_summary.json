@@ -1,0 +1,982 @@
+{
+  "total_images": 626,
+  "successful": 195,
+  "failed": 431,
+  "details": [
+    {
+      "image_key": "test-model-images/img/000.jpg",
+      "json_file": "000.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/001.jpg",
+      "json_file": "001.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/002.jpg",
+      "json_file": "002.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/003.jpg",
+      "json_file": "003.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/004.jpg",
+      "json_file": "004.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/005.jpg",
+      "json_file": "005.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/006.jpg",
+      "json_file": "006.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/007.jpg",
+      "json_file": "007.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/008.jpg",
+      "json_file": "008.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/009.jpg",
+      "json_file": "009.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/019.jpg",
+      "json_file": "019.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/020.jpg",
+      "json_file": "020.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/028.jpg",
+      "json_file": "028.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/039.jpg",
+      "json_file": "039.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/040.jpg",
+      "json_file": "040.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/041.jpg",
+      "json_file": "041.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/043.jpg",
+      "json_file": "043.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/062.jpg",
+      "json_file": "062.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/063.jpg",
+      "json_file": "063.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/064.jpg",
+      "json_file": "064.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/073.jpg",
+      "json_file": "073.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/074.jpg",
+      "json_file": "074.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/075.jpg",
+      "json_file": "075.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/076.jpg",
+      "json_file": "076.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/093.jpg",
+      "json_file": "093.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/094.jpg",
+      "json_file": "094.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/095.jpg",
+      "json_file": "095.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/096.jpg",
+      "json_file": "096.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/097.jpg",
+      "json_file": "097.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/098.jpg",
+      "json_file": "098.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/112.jpg",
+      "json_file": "112.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/131.jpg",
+      "json_file": "131.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/132.jpg",
+      "json_file": "132.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/148.jpg",
+      "json_file": "148.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/150.jpg",
+      "json_file": "150.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/151.jpg",
+      "json_file": "151.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/153.jpg",
+      "json_file": "153.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/155.jpg",
+      "json_file": "155.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/158.jpg",
+      "json_file": "158.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/161.jpg",
+      "json_file": "161.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/180.jpg",
+      "json_file": "180.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/181.jpg",
+      "json_file": "181.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/182.jpg",
+      "json_file": "182.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/183.jpg",
+      "json_file": "183.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/184.jpg",
+      "json_file": "184.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/187.jpg",
+      "json_file": "187.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/189.jpg",
+      "json_file": "189.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/193.jpg",
+      "json_file": "193.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/195.jpg",
+      "json_file": "195.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/196.jpg",
+      "json_file": "196.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/197.jpg",
+      "json_file": "197.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/199.jpg",
+      "json_file": "199.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/200.jpg",
+      "json_file": "200.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/201.jpg",
+      "json_file": "201.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/202.jpg",
+      "json_file": "202.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/204.jpg",
+      "json_file": "204.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/205.jpg",
+      "json_file": "205.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/206.jpg",
+      "json_file": "206.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/207.jpg",
+      "json_file": "207.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/212.jpg",
+      "json_file": "212.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/213.jpg",
+      "json_file": "213.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/214.jpg",
+      "json_file": "214.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/216.jpg",
+      "json_file": "216.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/217.jpg",
+      "json_file": "217.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/219.jpg",
+      "json_file": "219.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/225.jpg",
+      "json_file": "225.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/234.jpg",
+      "json_file": "234.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/235.jpg",
+      "json_file": "235.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/236.jpg",
+      "json_file": "236.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/237.jpg",
+      "json_file": "237.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/238.jpg",
+      "json_file": "238.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/240.jpg",
+      "json_file": "240.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/245.jpg",
+      "json_file": "245.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/246.jpg",
+      "json_file": "246.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/248.jpg",
+      "json_file": "248.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/249.jpg",
+      "json_file": "249.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/250.jpg",
+      "json_file": "250.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/252.jpg",
+      "json_file": "252.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/254.jpg",
+      "json_file": "254.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/255.jpg",
+      "json_file": "255.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/256.jpg",
+      "json_file": "256.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/257.jpg",
+      "json_file": "257.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/258.jpg",
+      "json_file": "258.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/259.jpg",
+      "json_file": "259.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/260.jpg",
+      "json_file": "260.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/261.jpg",
+      "json_file": "261.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/262.jpg",
+      "json_file": "262.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/263.jpg",
+      "json_file": "263.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/264.jpg",
+      "json_file": "264.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/271.jpg",
+      "json_file": "271.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/272.jpg",
+      "json_file": "272.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/273.jpg",
+      "json_file": "273.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/275.jpg",
+      "json_file": "275.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/276.jpg",
+      "json_file": "276.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/277.jpg",
+      "json_file": "277.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/278.jpg",
+      "json_file": "278.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/279.jpg",
+      "json_file": "279.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/280.jpg",
+      "json_file": "280.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/313.jpg",
+      "json_file": "313.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/314.jpg",
+      "json_file": "314.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/315.jpg",
+      "json_file": "315.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/316.jpg",
+      "json_file": "316.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/317.jpg",
+      "json_file": "317.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/318.jpg",
+      "json_file": "318.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/319.jpg",
+      "json_file": "319.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/320.jpg",
+      "json_file": "320.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/321.jpg",
+      "json_file": "321.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/322.jpg",
+      "json_file": "322.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/324.jpg",
+      "json_file": "324.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/325.jpg",
+      "json_file": "325.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/326.jpg",
+      "json_file": "326.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/341.jpg",
+      "json_file": "341.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/345.jpg",
+      "json_file": "345.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/402.jpg",
+      "json_file": "402.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/409.jpg",
+      "json_file": "409.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/410.jpg",
+      "json_file": "410.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/411.jpg",
+      "json_file": "411.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/420.jpg",
+      "json_file": "420.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/421.jpg",
+      "json_file": "421.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/422.jpg",
+      "json_file": "422.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/441.jpg",
+      "json_file": "441.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/442.jpg",
+      "json_file": "442.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/443.jpg",
+      "json_file": "443.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/444.jpg",
+      "json_file": "444.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/445.jpg",
+      "json_file": "445.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/446.jpg",
+      "json_file": "446.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/447.jpg",
+      "json_file": "447.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/448.jpg",
+      "json_file": "448.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/450.jpg",
+      "json_file": "450.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/451.jpg",
+      "json_file": "451.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/452.jpg",
+      "json_file": "452.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/454.jpg",
+      "json_file": "454.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/455.jpg",
+      "json_file": "455.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/457.jpg",
+      "json_file": "457.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/458.jpg",
+      "json_file": "458.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/466.jpg",
+      "json_file": "466.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/469.jpg",
+      "json_file": "469.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/470.jpg",
+      "json_file": "470.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/471.jpg",
+      "json_file": "471.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/472.jpg",
+      "json_file": "472.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/474.jpg",
+      "json_file": "474.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/475.jpg",
+      "json_file": "475.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/478.jpg",
+      "json_file": "478.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/480.jpg",
+      "json_file": "480.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/481.jpg",
+      "json_file": "481.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/482.jpg",
+      "json_file": "482.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/484.jpg",
+      "json_file": "484.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/485.jpg",
+      "json_file": "485.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/487.jpg",
+      "json_file": "487.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/489.jpg",
+      "json_file": "489.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/490.jpg",
+      "json_file": "490.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/491.jpg",
+      "json_file": "491.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/493.jpg",
+      "json_file": "493.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/494.jpg",
+      "json_file": "494.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/495.jpg",
+      "json_file": "495.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/497.jpg",
+      "json_file": "497.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/498.jpg",
+      "json_file": "498.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/499.jpg",
+      "json_file": "499.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/500.jpg",
+      "json_file": "500.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/501.jpg",
+      "json_file": "501.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/502.jpg",
+      "json_file": "502.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/503.jpg",
+      "json_file": "503.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/504.jpg",
+      "json_file": "504.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/505.jpg",
+      "json_file": "505.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/506.jpg",
+      "json_file": "506.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/507.jpg",
+      "json_file": "507.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/508.jpg",
+      "json_file": "508.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/509.jpg",
+      "json_file": "509.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/511.jpg",
+      "json_file": "511.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/514.jpg",
+      "json_file": "514.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/515.jpg",
+      "json_file": "515.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/516.jpg",
+      "json_file": "516.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/517.jpg",
+      "json_file": "517.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/518.jpg",
+      "json_file": "518.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/545.jpg",
+      "json_file": "545.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/546.jpg",
+      "json_file": "546.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/547.jpg",
+      "json_file": "547.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/548.jpg",
+      "json_file": "548.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/549.jpg",
+      "json_file": "549.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/550.jpg",
+      "json_file": "550.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/552.jpg",
+      "json_file": "552.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/584.jpg",
+      "json_file": "584.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/585.jpg",
+      "json_file": "585.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/587.jpg",
+      "json_file": "587.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/589.jpg",
+      "json_file": "589.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/591.jpg",
+      "json_file": "591.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/610.jpg",
+      "json_file": "610.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/611.jpg",
+      "json_file": "611.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/612.jpg",
+      "json_file": "612.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/614.jpg",
+      "json_file": "614.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/618.jpg",
+      "json_file": "618.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/621.jpg",
+      "json_file": "621.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/622.jpg",
+      "json_file": "622.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/624.jpg",
+      "json_file": "624.json",
+      "status": "success"
+    },
+    {
+      "image_key": "test-model-images/img/625.jpg",
+      "json_file": "625.json",
+      "status": "success"
+    }
+  ]
+}
