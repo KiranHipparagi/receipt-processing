@@ -16,7 +16,7 @@ This project processes receipt images to extract information such as company nam
 ## Input Data
 
 The input data images are fetched from a GitHub repository. You can access the images from the following link:
-[Input Data Images](https://github.com/your-repository/input-data-images)
+[Input Data Images](https://github.com/zzzDavid/ICDAR-2019-SROIE/tree/master/data/img)
 
 
 ## Setup and Installation
